@@ -23,7 +23,7 @@
     "rules": {
         "indent": [
             "error", 
-            2
+            4
         ],
         "linebreak-style": [
             "error",
@@ -41,6 +41,6 @@
         "comma-spacing": ["error", { "before": false, "after": true }],
         "arrow-spacing": ["error", { "before": true, "after": true }],
         "react/no-unescaped-entities": 0,
-        "react/prop-types": 0,
+        "react/prop-types": 0
     }
 }
